@@ -8,9 +8,3 @@ Source files:
   Problemcereal.cpp
   Problemfirecapacity.cpp
   Problememployeepay.cpp
-
-Running instructions:
-  ./firstprog.out
-  ./secprog.out
-  ./thirdprog.out
-  
